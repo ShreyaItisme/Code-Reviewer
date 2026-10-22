@@ -1,0 +1,13 @@
+# Secrets and environment configs
+.env
+*.env
+
+# Python artifacts & virtual environments
+backend/venv/
+backend/__pycache__/
+*.py[cod]
+
+# Node / React dependencies & build outputs
+frontend/node_modules/
+frontend/dist/
+.DS_Store
